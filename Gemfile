@@ -66,3 +66,6 @@ gem "activeadmin", "~> 2.9"
 
 #devise gem
 gem "devise", "~> 4.8"
+
+#acts_as_tagable gem for tags
+gem 'acts-as-taggable-on'
